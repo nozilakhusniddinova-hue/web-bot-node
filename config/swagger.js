@@ -11,7 +11,7 @@ const options = {
     },
     servers: [
       {
-        url: "https://lesson-bot-node.onrender.com/api",
+        url: "https://web-bot-node-7tpe.onrender.com/api",
         description: "Development server",
       },
       {
